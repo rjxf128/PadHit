@@ -1,1 +1,1 @@
-{"b":"https://www.google.com"}
+{"b":""}
